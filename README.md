@@ -26,3 +26,4 @@ Portafolio web: **https://JimAcosta123.github.io/portfolio-web/**
 ## Contacto
 
 - Email: jimkleberacostaacosta@gmail.com
+- LinkedIn: https://www.linkedin.com/in/JimboX
